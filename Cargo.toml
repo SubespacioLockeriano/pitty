@@ -5,7 +5,11 @@ edition = "2024"
 license = "MIT"
 
 [dependencies]
+log = "0.4"
 portable-pty = "0.9.0"
-glfw = "0.61.0"
 vte = "0.15.0"
 swash = "0.2.6"
+speedy2d = "3.0.0"
+font-kit = "0.14"
+simple_logger = "5.1.0"
+anyhow = "1.0.100"
